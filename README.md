@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🛒 E-Commerce Sales Analysis</h1>
+<img src="image%20files/ECommerce_Sales_Analysis_Diagram3.png" alt="E-Commerce Sales Analysis Workflow" width="900"/>
 
 <p>
 <b>Data analysis project using Python, Pandas, Matplotlib, and Seaborn to explore e-commerce sales, profit, discounts, shipping modes, product categories, customer segments, and regional performance.</b>
@@ -19,7 +19,6 @@
 
 ---
 
-<img src="image%20files/ECommerce_Sales_Analysis_Diagram3.png" alt="E-Commerce Sales Analysis Workflow" width="900"/>
 
 ## 📌 Project Overview
 
