@@ -19,6 +19,8 @@
 
 ---
 
+<img src="image%20files/ECommerce_Sales_Analysis_Diagram3.png" alt="E-Commerce Sales Analysis Workflow" width="900"/>
+
 ## 📌 Project Overview
 
 This project analyzes an e-commerce sales dataset to uncover business insights related to sales performance, profitability, shipping modes, customer segments, product categories, regional trends, and discount impact.
@@ -44,14 +46,6 @@ The analysis is performed in a Jupyter Notebook using Python data analysis libra
 
 <p align="center">
 <img src="image%20files/E_Commerce_Sales_Analysis_Infographic.png" alt="E-Commerce Sales Analysis Infographic" width="900"/>
-</p>
-
----
-
-## 🏗️ Analysis Workflow
-
-<p align="center">
-<img src="image%20files/ECommerce_Sales_Analysis_Diagram3.png" alt="E-Commerce Sales Analysis Workflow" width="900"/>
 </p>
 
 ---
@@ -284,28 +278,6 @@ Project-notebooks/E-Commerce Sales Analysis.ipynb
 - Regional performance analysis
 - Business insight generation
 - Visual storytelling using charts
-
----
-
-## ⚠️ GitHub Notes
-
-This repository includes folder names with spaces, such as:
-
-```text
-image files/
-Project PDF file/
-Project-notebooks/
-```
-
-They will work on GitHub, but for cleaner repository naming, you may optionally rename them to:
-
-```text
-images/
-project-report/
-notebooks/
-```
-
-If you rename folders, also update the image paths in this README.
 
 ---
 
